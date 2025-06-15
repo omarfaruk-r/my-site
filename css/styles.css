@@ -1,28 +1,28 @@
 body {
-  color: #40514e;
+  color: #40514E;
   margin: 0;
   text-align: center;
-  font-family: "Merriweather", serif;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {
-  color: #66bfbf;
+  color: #66BFBF;
   font-size: 5.625rem;
-  margin: 50px auto 0;
-  font-family: "Sacramento", cursive;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  color: #66bfbf;
-  font-family: "Montserrat", sans-serif;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
 
 h3 {
-  color: #11999e;
-  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
 }
 
 p {
@@ -30,25 +30,25 @@ p {
 }
 
 hr {
-  border: dotted #eaf6f6 6px;
+  border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
 }
 
-a {
-  color: #11999e;
-  font-family: "Montserrat", sans-serif;
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
 a:hover {
-  color: #eaf6f6;
+  color: #EAF6F6;
 }
 
 .top-container {
-  background-color: #e4f9f5;
+  background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
 }
@@ -58,13 +58,13 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #66bfbf;
+  background-color: #66BFBF;
   padding: 50px 0 20px;
 }
 
 .skill-row {
   width: 50%;
-  margin: 100px auto;
+  margin: 100px auto 100px auto;
   text-align: left;
 }
 
@@ -83,7 +83,7 @@ a:hover {
 }
 
 .copyright {
-  color: #eaf6f6;
+  color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
 }
@@ -112,18 +112,6 @@ a:hover {
   margin-left: 30px;
 }
 
-/*-------------------------------------CLEAR PROPERTY--------------------------------
-
-.code-skill-description {
-  clear: left;
-}
-
-.chilli-skill-description {
-  clear: right;
-}
-
-*/
-
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -134,7 +122,7 @@ a:hover {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
